@@ -1,0 +1,18 @@
+
+    body{
+        background-color: aqua;
+     }
+
+
+img{
+    height: 180px;
+    width: 200px;
+float: left;
+border-radius: 50%;
+}
+
+
+hr{
+    width: 100%;
+}
+
